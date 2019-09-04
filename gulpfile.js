@@ -94,8 +94,8 @@ gulp.task('export', async function() {
   let buildFonts = gulp.src('app/fonts/**/*.*')
     .pipe(gulp.dest('dist/fonts'))
 
-  let buildImg = gulp.src('app/images/**/*.*')
-    .pipe(gulp.dest('dist/images'))
+  let buildImg = gulp.src('app/img/**/*.*')
+    .pipe(gulp.dest('dist/img'))
 
   let buildVideo = gulp.src('app/video/**/*.*')
     .pipe(gulp.dest('dist/video'))
