@@ -6,7 +6,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Nikita P. O.",
+  "author": "Nikita Popov",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.5.5",
