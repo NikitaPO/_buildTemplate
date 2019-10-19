@@ -40,7 +40,6 @@ p {
 a,
 button {
   border: none;
-  outline: none;
   cursor: pointer;
 }
 
@@ -49,10 +48,6 @@ body {
   color: $black-text;
   line-height: 23px;
   font-weight: 400;
-}
-
-input:focus {
-  outline: none;
 }
 
 .visually-hidden {
